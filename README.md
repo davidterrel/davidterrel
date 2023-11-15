@@ -2,7 +2,7 @@
 ### Fullstack Web Developer
 ---
 
-📍 Las Vegas, NV | 📞 702-521-7697 | 📧 davidterrel1999@yahoo.com | 👨‍💻 [LinkedIn](linkedin.com/in/davidterrel) | 🗂️ [Portfolio](https://davidterrel.netlify.app)
+📍 Las Vegas, NV | 📞 702-521-7697 | 📧 davidterrel1999@yahoo.com | 👨‍💻 [LinkedIn](https://www.linkedin.com/in/davidterrel)| 🗂️ [Portfolio](https://davidterrel.netlify.app)
 
 ## Welcome to my space! 👋
 
