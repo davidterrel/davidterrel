@@ -15,6 +15,7 @@ I'm David, a fresh Fullstack Web Developer based in Las Vegas, NV. I transitione
 
 ### Projects
 🔮 [Stranger Things Trading Post](https://github.com/davidterrel/Block30.git) - A marketplace app for fans of the supernatural.
+
 🛒 [E-Commerce Application](https://github.com/davidterrel/supercapstone.git) - Your next-level shopping experience, just a click away.
 
 ### Work Experience
