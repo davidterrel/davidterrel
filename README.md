@@ -23,7 +23,7 @@ I'm David, a fresh Fullstack Web Developer based in Las Vegas, NV. I transitione
   - Championing delivery success and customer satisfaction, day in and day out.
 
 ### Engage with Me
-- **Ask Me Anything:** Have a question or just want to chat? [Start a discussion](https://github.com/davidterrel/davidterrel/discussions) on my GitHub.
+- **Ask Me Anything:** Have a question or just want to chat? [Start a discussion](https://github.com/davidterrel/davidterrel/discussions) on my GitHub. 
 
 ### What I'm Up To
 🥋 Outside of the tech world, I am deeply passionate about MMA and Brazilian Jiu-Jitsu. Currently, I am a proud purple belt, always ready to learn and apply the principles of discipline and continuous improvement from the mat to my code.
